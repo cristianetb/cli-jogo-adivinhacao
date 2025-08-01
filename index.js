@@ -1,4 +1,5 @@
 import {number} from "@inquirer/prompts"
+import chalk from 'chalk'
 
 console.log("Boas vindas ao jogo de de adivinhação!")
 

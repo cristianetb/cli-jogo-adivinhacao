@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@inquirer/prompts": "^7.7.1"
+    "@inquirer/prompts": "^7.7.1",
+    "chalk": "^5.4.1"
   },
   "type": "module"
 }
