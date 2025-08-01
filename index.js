@@ -15,6 +15,7 @@ while(numeroAleatorio > 0){
     
     if(palpite === numeroAleatorio){
         console.log("Parabéns! Você acertou!")
+        break
     }else if(palpite > numeroAleatorio){
         console.log("Muito alto, tente um numero menor")
      }else if(palpite < numeroAleatorio){
