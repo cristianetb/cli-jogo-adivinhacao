@@ -30,3 +30,10 @@ while(numeroAleatorio > 0){
 if (numeroTentativas === 0){
     console.log(`As tentativas acabaram! O número certo era ${numeroAleatorio}`)
 }
+
+try {
+    
+} catch (error) {
+    console.log('programa encerrados pelo usuário')
+    
+}
