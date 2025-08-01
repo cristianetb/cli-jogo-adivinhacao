@@ -21,8 +21,8 @@ while(numeroAleatorio > 0){
      }else if(palpite < numeroAleatorio){
         console.log("Muito baixo, tente um numero maior")
     }else {
-        numeroTentativas++
         console.log("Entrada não é um numero válido")
+        numeroTentativas ++
     }
     numeroTentativas = numeroTentativas - 1
 }
